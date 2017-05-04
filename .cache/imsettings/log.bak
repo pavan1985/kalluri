@@ -1,0 +1,39 @@
+[ 1492504152.935945]: IMSettings-Daemon[5084]: INFO: Starting imsettings-daemon...
+[ 1492504152.936140]: IMSettings-Daemon[5084]: INFO:   [HOME=/home/pavan/.config/imsettings]
+[ 1492504152.936169]: IMSettings-Daemon[5084]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+[ 1492504152.936190]: IMSettings-Daemon[5084]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+
+[ 1492504152.936209]: IMSettings-Daemon[5084]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+
+[ 1492504152.936231]: IMSettings-Daemon[5084]: INFO:   [MODULES=gsettings]
+
+imsettings information
+==========================
+XINPUTRC: /etc/X11/xinit/xinput.d//none.conf
+	  File: ‘/etc/X11/xinit/xinput.d//none.conf’
+	  Size: 110       	Blocks: 8          IO Block: 4096   regular file
+	Device: 805h/2053d	Inode: 34589081    Links: 1
+	Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+	Access: 2017-04-18 13:55:00.513467095 +0530
+	Modify: 2014-06-10 13:22:06.000000000 +0530
+	Change: 2016-12-28 19:11:36.904000000 +0530
+	 Birth: -
+Is DBus enabled: yes
+Is imsettings enabled: yes
+Is GTK+ supported: no
+Is Qt supported: no
+DESKTOP: unknown
+GUESS_DESKTOP: 
+DISABLE_IMSETTINGS: 
+IMSETTINGS_DISABLE_DESKTOP_CHECK: 
+DBUS_SESSION_BUS_ADDRESS: unix:abstract=/tmp/dbus-ILhJZRevaC,guid=223cc09fa9ace5f01b5f7ecf58f5ce58
+GTK_IM_MODULE: gtk-im-context-simple
+QT_IM_MODULE: xim
+XMODIFIERS: @im=none
+IMSETTINGS_MODULE: none
+IMSETTINGS_INTEGRATE_DESKTOP: yes
+
+[ 1492504155.394733]: IMSettings-Daemon[5084]: INFO: Attempting to switch IM to none [lang=en_US.UTF-8, update=false]
+[ 1492504155.535632]: IMSettings-Daemon[5084]: INFO:   no need to invoke any auxiliary process for none
+[ 1492504155.535710]: IMSettings-Daemon[5084]: INFO:   no need to invoke any main process for none
+[ 1492504155.535879]: IMSettings-GSettings backend[5084]: INFO: Setting up gtk-im-context-simple:xim as gtk+ immodule

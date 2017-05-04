@@ -1,0 +1,99 @@
+
+Xvnc TigerVNC 1.3.1 - built Nov 16 2016 13:38:44
+Copyright (C) 1999-2011 TigerVNC Team and many others (see README.txt)
+See http://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 11702000, The X.Org Foundation
+
+
+Mon Apr 24 13:24:32 2017
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5903
+ vncext:      created VNC server for screen 0
+gnome-session-is-accelerated: llvmpipe detected.
+
+Mon Apr 24 13:25:26 2017
+ Connections: accepted: 172.50.50.82::62286
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+
+Mon Apr 24 13:25:29 2017
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+
+Mon Apr 24 22:09:43 2017
+ Connections: closed: 172.50.50.82::62286 (Clean disconnection)
+ SMsgWriter:  framebuffer updates 438
+ SMsgWriter:    Tight rects 1137, bytes 2385224
+ SMsgWriter:    raw bytes equivalent 55945164, compression ratio 23.454889
+
+Tue Apr 25 13:25:44 2017
+ Connections: accepted: 172.50.50.82::50095
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+
+Tue Apr 25 13:25:47 2017
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+
+Tue Apr 25 21:46:31 2017
+ Connections: closed: 172.50.50.82::50095 (Clean disconnection)
+ SMsgWriter:  framebuffer updates 9804
+ SMsgWriter:    Tight rects 40583, bytes 49684969
+ SMsgWriter:    raw bytes equivalent 997436320, compression ratio 20.075213
+
+Fri Apr 28 16:51:11 2017
+ Connections: accepted: 172.50.50.82::52064
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+
+Fri Apr 28 16:51:14 2017
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 172.50.50.82::52064 (Authentication failure)
+
+Fri Apr 28 16:51:15 2017
+ Connections: accepted: 172.50.50.82::52065
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+
+Fri Apr 28 16:51:17 2017
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+
+Tue May  2 19:00:33 2017
+ Connections: accepted: 172.50.50.82::53688
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+
+Tue May  2 19:00:36 2017
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+
+Tue May  2 19:08:11 2017
+ Connections: closed: 172.50.50.82::53688 (Clean disconnection)
+ SMsgWriter:  framebuffer updates 7742
+ SMsgWriter:    Tight rects 43607, bytes 63881387
+ SMsgWriter:    raw bytes equivalent 1275249504, compression ratio 19.962771
+
+Tue May  2 19:16:07 2017
+ Connections: closed: 172.50.50.82::52065 (read: Connection timed out (110))
+ SMsgWriter:  framebuffer updates 16044
+ SMsgWriter:    Tight rects 80385, bytes 99393749
+ SMsgWriter:    raw bytes equivalent 2286903168, compression ratio 23.008521
+
+Wed May  3 17:19:04 2017
+ Connections: accepted: 172.50.50.82::51633
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+
+Wed May  3 17:19:06 2017
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+
+Thu May  4 13:55:36 2017
+ Connections: accepted: 172.50.50.82::56409
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+
+Thu May  4 13:55:39 2017
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+
+Thu May  4 14:11:17 2017
+ Connections: closed: 172.50.50.82::51633 (read: Connection timed out (110))
+ SMsgWriter:  framebuffer updates 529
+ SMsgWriter:    Tight rects 1252, bytes 3457184
+ SMsgWriter:    raw bytes equivalent 60066932, compression ratio 17.374526
